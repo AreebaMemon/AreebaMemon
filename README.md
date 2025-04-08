@@ -7,7 +7,7 @@ A passionate Front-End Developer and MLSA from Sindh, Pakistan 🇵🇰
 
 🌱 I’m currently learning Backend.
 📝 I sometimes write articles/blogs on [Medium](https://medium.com/@mareeba166/introduction-of-software-development-b0b028d22540)  
-📫 How to reach me: areebamemon@example.com (mareeba166@gmail.com)  
+📫 How to reach me: (mareeba166@gmail.com)  
 
 
 ⚡ Fun fact: I bring calm vibes to code, and chaos to bugs! 😉
