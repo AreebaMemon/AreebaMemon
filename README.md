@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images.jpg" alt="My Image" width="300"/>
+</p>
+
 # Hi 👋, I'm Areeba Memon  
 A passionate Front-End Developer and MLSA from Sindh, Pakistan 🇵🇰
 
