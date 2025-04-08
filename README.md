@@ -1,4 +1,4 @@
-<img src="images.jpg" alt="My Image" width="300"/>
+<img src="images.jpg" alt="My Image"/>
 
 
 # Hi 👋, I'm Areeba Memon  
