@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="coding-in-the-classroom.avif" alt="Areeba Memon"/>
+  <img src="wallhaven-1jrw3g_1920x1080.png" alt="Areeba Memon"/>
   <h1>Hi 👋, I'm Areeba Memon</h1>
   A passionate Front-End Developer and MLSA from Sindh, Pakistan 🇵🇰
 </div>
