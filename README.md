@@ -7,7 +7,7 @@ I’m passionate about building beautiful and responsive websites. I love learni
 
 ## 🛠️ Skills & Tools
 - HTML5, CSS3, JavaScript
-- - Responsive Web Design
+- Responsive Web Design
 - Git & GitHub
 - Python (Beginner)
 
