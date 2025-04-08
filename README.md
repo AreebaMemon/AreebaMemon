@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Areeba Memon!
 
-🎓 Student | 💻 Front-End Web Developer | 🚀 Microsoft Learn Student Ambassador  
+🎓 Student | 💻 Front-End Developer | 🚀 Microsoft Learn Student Ambassador  
 
 I’m passionate about building beautiful and responsive websites. I love learning and sharing knowledge with the tech community.
 
