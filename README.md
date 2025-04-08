@@ -5,12 +5,10 @@ A passionate Front-End Developer and MLSA from Sindh, Pakistan 🇵🇰
 
 ---
 
-🌱 I’m currently learning Data Science & Python  
-🧠 Always exploring JavaScript, React, and UI/UX  
-👩‍💻 All of my projects are available here: [Portfolio](https://your-portfolio-link.com)  
-📝 I sometimes write articles/blogs on [Medium](https://medium.com/@yourusername)  
-📫 How to reach me: areebamemon@example.com (replace with real email)  
-📄 Know more about me: [Resume](https://your-resume-link.com)  
+🌱 I’m currently learning Backend.
+📝 I sometimes write articles/blogs on [Medium](https://medium.com/@mareeba166/introduction-of-software-development-b0b028d22540)  
+📫 How to reach me: areebamemon@example.com (mareeba166@gmail.com)  
+
 
 ⚡ Fun fact: I bring calm vibes to code, and chaos to bugs! 😉
 
@@ -18,9 +16,7 @@ A passionate Front-End Developer and MLSA from Sindh, Pakistan 🇵🇰
 
 ## 🧑‍💻 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/areebamemon)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/yourprofile)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourusername)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://web.facebook.com/areebamemon.areebamemon.507)  
 
 ---
 
