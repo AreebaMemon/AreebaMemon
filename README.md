@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="coding-in-the-classroom.avif" alt="Areeba Memon" width="100%"/>
+  <img src="coding-in-the-classroom.avif" alt="Areeba Memon"/>
   <h1>Hi 👋, I'm Areeba Memon</h1>
 </div>
 
