@@ -1,7 +1,6 @@
-<img src="images.jpg" alt="My Image"/>
+![Screenshot](images.jpg)
 
-
-# Hi 👋, I'm Areeba Memon  
+align="center" # Hi 👋, I'm Areeba Memon  
 A passionate Front-End Developer and MLSA from Sindh, Pakistan 🇵🇰
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=AreebaMemon&label=Profile%20views&color=0e75b6&style=flat)
