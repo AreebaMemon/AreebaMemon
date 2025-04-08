@@ -3,7 +3,7 @@
 <div align="center">
   <img src="image.png" alt="Areeba Memon"/>
   <h1>Hi 👋, I'm Areeba Memon</h1>
-  A passionate Front-End Developer & Microsoft Learn Student Ambassador from Sindh, Pakistan 🇵🇰
+ <h3>A passionate Front-End Developer & Microsoft Learn Student Ambassador from Sindh, Pakistan 🇵🇰</h3>
 </div>
 
 🌱 I’m currently learning Backend. <br>
@@ -25,8 +25,8 @@
 ## ⚡ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AreebaMemon&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=AreebaMemon&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AreebaMemon&show_icons=true&theme=tokyonight" /> <br>
+  <img src="https://streak-stats.demolab.com?user=AreebaMemon&theme=tokyonight" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AreebaMemon&layout=compact&theme=tokyonight" />
 </p>
 
