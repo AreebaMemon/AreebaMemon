@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi there, I'm Areeba Memon!
 
-<!--
-**AreebaMemon/AreebaMemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | 💻 Front-End Web Developer | 🚀 Microsoft Learn Student Ambassador  
 
-Here are some ideas to get you started:
+I’m passionate about building beautiful and responsive websites. I love learning and sharing knowledge with the tech community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠️ Skills & Tools
+- HTML5, CSS3, JavaScript
+- - Responsive Web Design
+- Git & GitHub
+- Python (Beginner)
+
+## 📫 Let's Connect!
+- [LinkedIn](https://linkedin.com/in/areebamemon)
+
