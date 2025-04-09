@@ -25,7 +25,6 @@
 ## ⚡ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AreebaMemon&theme=tokyonight" /> <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AreebaMemon&layout=compact&theme=tokyonight" /> <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=AreebaMemon&show_icons=true&theme=tokyonight" />
 </p>
