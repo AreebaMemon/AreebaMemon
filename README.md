@@ -8,7 +8,6 @@
 
 🌱 I’m currently learning Backend. <br>
 📝 I sometimes write articles and blogs on [Medium](https://medium.com/@mareeba166/introduction-of-software-development-b0b028d22540).  
-📫 How to reach me: mareeba166@gmail.com  
 ⚡ Fun fact: I bring calm vibes to code, and chaos to bugs! 😉
 
 ## 🧑‍💻 Connect with me:
