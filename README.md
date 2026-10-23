@@ -1,7 +1,6 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=AreebaMemon&label=Profile%20views&color=0e75b6&style=flat)
 
 <div align="center">
-  <img src="image.png" alt="Areeba Memon"/>
   <h1>Hi 👋, I'm Areeba Memon</h1>
   <h4>Software Engineering graduate | Web Developer | Workflow Automation | Karachi, Pakistan 🇵🇰</h4>
   <p>
